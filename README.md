@@ -1,6 +1,6 @@
 # Personal Portfolio Version 2
 
-**Demo:**
+**Demo:** https://solomonkamanga.github.io/personal-portfolio-v2/
 
 ## Project
 
